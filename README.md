@@ -43,7 +43,7 @@ graph TD
 
 | Chức năng | Hình ảnh minh họa |
 |----------|-------------------|
-| Giao diện chính | ![Giao diện](https://i.imgur.com/AZ0RyRx.png) *(Thay bằng ảnh thật nếu có)* |
+| Giao diện chính | ![Giao diện](https://i.imgur.com/AZ0RyRx.png) |
 
 ---
 
