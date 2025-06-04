@@ -14,14 +14,12 @@ Mô hình YOLOv8 được huấn luyện trên tập dữ liệu động vật t
 ### 🛠️ **Quy trình hoạt động:**
 
 ```mermaid
-### 🛠️ Quy trình hoạt động:
-
 1. Người dùng chọn ảnh từ máy tính
 2. YOLOv8 tiến hành phân tích và nhận diện đối tượng trong ảnh
 3. Kết quả bao gồm:
    - Hiển thị ảnh gốc
    - Hiển thị văn bản: tên loài và độ chính xác
-
+```
 
 ### ✅ **Chức năng chính:**
 - Giao diện người dùng đơn giản với `Tkinter`
@@ -90,5 +88,5 @@ pyinstaller --onefile --noconsole detect_gui.py
 
 ## 📞 7. Liên hệ
 
-- Tác giả: [Tên nhóm / cá nhân thực hiện]
-- Email: example@gmail.com
+- Tác giả: [Lê Xuân Đạt]
+- Email: brianbenn2003@gmail.com
