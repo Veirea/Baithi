@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 20
+names: ['butterfly', 'cat', 'cow', 'crab', 'crow', 'dog', 'donkey', 'duck', 'fox', 'goat', 'hamster', 'horse', 'leopard', 'lion', 'mouse', 'panda', 'pig', 'snake', 'turtle', 'wolf']
+
+roboflow:
+  workspace: animal-wwt0u
+  project: animal-zftkq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/animal-wwt0u/animal-zftkq/dataset/1
